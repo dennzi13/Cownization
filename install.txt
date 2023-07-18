@@ -1,0 +1,6 @@
+charset, Shift_JIS
+name,NEW天地開拓記
+type,ghost
+directory,Cownization
+refresh,0
+

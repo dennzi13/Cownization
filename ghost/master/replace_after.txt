@@ -1,0 +1,13 @@
+さんさん	さん
+ちゃんさん	ちゃん
+くんさん	くん
+…	…\w8
+‥	‥\w3
+！	！\w9\w4
+\![open,browser	\\![open,browser
+ｖ	\f[color,#ff8282]\_u[0x2764]\f[color,default]\w9\w4
+？	？\w9\w4
+。	。\w9\w4
+、	、\w7
+!?	!?\w9\w4
+!!	!!\w9\w4
