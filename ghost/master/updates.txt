@@ -6,7 +6,7 @@ file,ghost/master/dic01_Base.txtb7baffa237874056d82f803df79309ffsize=5468date
 file,ghost/master/dic02_Event.txt63367c1b53a453d592214b7c5bda07bdsize=7739date=2023-07-19T03:08:30
 file,ghost/master/dic03_Menu.txt8f1260cbd1dc6585090469af83dd1868size=10370date=2023-07-19T03:04:33
 file,ghost/master/dic04_Change.txt4311f777771c9be78b365ab032dc021dsize=1612date=2022-07-27T20:12:06
-file,ghost/master/dic05_Talk.txt02f2f1273590edc7a2816cae31764ca3size=11611date=2024-07-18T20:22:20
+file,ghost/master/dic05_Talk.txt772282c95bda9cbcf3c279e0b0d76a94size=11610date=2024-07-18T20:39:37
 file,ghost/master/dic06_String.txt98c7e00aaa8ed222bc1cac7a6b524c94size=3109date=2023-07-19T03:11:05
 file,ghost/master/dic07_Time.txte5e51403888b6c2e5e20e5a002ddee1bsize=214date=2022-04-30T01:20:27
 file,ghost/master/dic08_Sawari.txtd9bb9bf47103ecf23e9dd9964162e2d5size=7136date=2024-07-18T20:22:20
