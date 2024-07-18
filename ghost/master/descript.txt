@@ -1,7 +1,9 @@
 charset,Shift_JIS
 name,NEW天地開拓記
 type,ghost
-craftmanw,
+craftman,dennzi
+craftmanw,電磁
+craftmanurl,http://denmemo31.blog.fc2.com/
 readme,readme.txt
 sakura.name,ミルフィ
 sakura.seriko.defaultsurface,0
